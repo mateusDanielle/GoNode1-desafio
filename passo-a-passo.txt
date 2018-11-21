@@ -1,0 +1,5 @@
+terminal -> yarn init -y
+terminal -> yarn add express
+criar index.js
+terminal -> yarn add eslint -D , npx eslint --init -> 'Use a popular style guide' -> 'Standard' -> 'JSON' -> 'Y' -> remove package-lock.json -> yarn
+terminal -> yarn add nunjucks
